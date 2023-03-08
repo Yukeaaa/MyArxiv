@@ -69,7 +69,7 @@
 
 ## <img src="./imgs/icon/resource.png" width="25" />项目预览
 
-使用者可以访问[https://mlnlp-world.github.io/MyArxiv/](https://mlnlp-world.github.io/MyArxiv/)进行对当前项目进行预览，以便更好地熟悉和使用当前项目。
+使用者可以访问[https://Yukeaaa.github.io/MyArxiv/](https://Yukeaaa.github.io/MyArxiv/)进行对当前项目进行预览，以便更好地熟悉和使用当前项目。
 
 - `MyArxiv`总页面概览：
 
